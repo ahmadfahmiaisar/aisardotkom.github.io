@@ -1,0 +1,187 @@
+
+.menui {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+.menune {
+    float: left;
+}
+
+.menune a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menune a:hover {
+    background-color: #ddd;
+}
+a.menu-aktip {
+    color: white;
+    background-color: #4CAF50;
+}
+.awal {
+    width: 100%;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    height: 100vh;
+    position: relative;
+}
+.bio-title {
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-size: 7vmin;
+    letter-spacing: 2vmin;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.moto {
+    position: relative;
+    margin: auto;
+    display: block;
+    max-width: 50vmin;
+}
+.bioisun {
+    position: relative;
+    width: 60%;
+    margin: 20px auto;
+    text-align: justify;
+    font-size: 2.5vmin;
+    color: white;
+    border: 3px solid white;
+    border-style: dashed;
+    border-radius: 2px;
+    padding: 20px;
+}
+.bioisun p::first-letter {
+    font-size: 200%;
+}
+.bioisun:hover {
+    border-style: solid;
+}
+
+//kieVC
+.muck-up {
+  width: 900px;
+  height: 1000px;
+  margin: 5em auto;
+  position: relative;
+  overflow: hidden;
+}
+.overlay {
+  background: url(https://raw.githubusercontent.com/arjunamgain/FilterMenu/master/images/header.jpg) no-repeat top /contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.top .nav span {
+  float: left;
+  display: block;
+}
+.ion-android-menu {
+  font-size: 50px;
+  margin-right: 17px;
+}
+.nav .ion-ios-more-outline {
+  font-size: 60px;
+  float: right !important;
+}
+.user-profile {
+  margin-top: 90px;
+}
+
+.user-profile img {
+  height: 195px;
+  width: 195px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 24px;
+}
+
+.user-details p {
+  font-size: 30px;
+}
+
+.user-details {
+  float: left;
+  margin-top: 5px;
+  vertical-align: bottom;
+}
+
+.user-details h4 {
+  font-size: 58px;
+}
+
+ html {
+  background: url(https://raw.githubusercontent.com/arjunamgain/FilterMenu/master/images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  font: 900 20px/24px Roboto
+}
+body {
+    background-image: url(https://www.google.co.id/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjFqM_zhLHTAhULsI8KHVd0BpEQjRwIBw&url=https%3A%2F%2Fwww.planwallpaper.com%2Fbackground-images&psig=AFQjCNFBAZ4T8KECRbJafRJLnVHuMVDtXQ&ust=1492709068459680);
+    background-size: 100%; 
+    margin: 0;
+    }
+.tubuh {
+    font-family: Helvetica;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 6%;
+    font-weight: bolder;
+}
+.namaku {
+    text-align: center;
+    margin-top: 10%;
+    margin: auto;
+    padding: 14px 25px;
+    border-bottom: 6px solid #16834A;
+    width: 50%;
+    }
+.nul {
+    font-weight: bolder;
+    font-size: 150%;
+}
+.nama {
+    margin-left:23%;
+}
+.uhu {
+    margin-bottom: 55px;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #16834A;
+    margin-right: 30%;
+}
+.baris:hover {
+    background-color: rgb(240,240,240);
+}
+.keindexw {
+    position: absolute;
+    right: 15%;
+    margin-bottom: 5%;
+    padding: 14px 25px;
+    background: white;
+    border-left: 6px solid #16834A;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
